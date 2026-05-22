@@ -2,8 +2,7 @@
 
 ## Overview
 
-Designed and implemented a monthly engineering work request reporting system using Microsoft Excel, Microsoft SharePoint, and Microsoft Power Apps to manage operational requests, analyze workflow activity, and maintain accurate reporting records.
-
+Developed an engineering work request reporting workflow using Microsoft Excel, Microsoft SharePoint, Microsoft Power Apps, and Microsoft Power Automate to streamline monthly operational reporting, track work request completion, calculate KPI achievement rates, and improve visibility of engineering performance.
 
 ## Tools Used
 
@@ -20,20 +19,21 @@ Descriptive Analytics
 
 ---
 
-## Notes
-This repository presents a portfolio adaptation of an engineering reporting workflow. All sensitive organizational information and operational data have been anonymized to maintain confidentiality.
+## Workflow Process
 
----
-
-## Methodology
-
-1. Built and maintained an engineering work request reporting solution using Microsoft SharePoint, Microsoft Excel, and Microsoft Power Apps.
-2. Connected SharePoint request records with automated Excel reporting processes for monthly operational analysis.
-3. Performed data cleaning, validation, and monitoring to improve reporting consistency and accuracy.
-4. Synchronized processed reporting data back into the Power Apps environment to support workflow visibility and operational tracking.
+1. Requests submitted via Power Apps
+2. Data stored in SharePoint lists
+3. Power Automate used to support workflow notifications and updates
+4. Monthly data extracted into Excel for reporting and analysis
+5. Final reports used to manually update Power Apps for historical work request tracking and engineer performance monitoring
 
 ---
 
 ## Outcome
 
-Created an automated reporting workflow that enhanced engineering request tracking, improved reporting efficiency, and simplified monthly operational reporting for the Engineering Department.
+Developed a structured reporting workflow that transformed engineering work request data into KPI-driven insights. Excel reporting was used to calculate completion rates and evaluate KPI attainment, improving visibility of operational performance. The results were reflected in Power Apps to support ongoing tracking of engineer productivity and historical performance analysis.
+
+---
+
+## Notes
+This repository presents a portfolio adaptation of an engineering reporting workflow. All sensitive organizational information and operational data have been anonymized to maintain confidentiality.
