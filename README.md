@@ -35,7 +35,8 @@ Descriptive Analytics
 
 ### Work Request Submission Form (Power Apps)
 
-![Power Apps Form](images/powerapps_form.png)
+![powerapps_form_1](power_apps_screenshots/powerapps_form_1.png)
+![powerapps_form_2](power_apps_screenshots/powerapps_form_2.png)
 
 Users submit engineering work requests through a structured Power Apps interface.  
 The form captures request details, department information, priority level, and supporting task descriptions before storing the records in SharePoint for operational tracking and reporting.
@@ -44,7 +45,7 @@ The form captures request details, department information, priority level, and s
 
 ### KPI Performance Dashboard
 
-![KPI Dashboard](images/kpi_dashboard.png)
+![kpi_dashboard](power_apps_screenshots/kpi_dashboard.png)
 
 The KPI dashboard tracks engineering work request completion rates against operational targets.  
 The reporting interface provides monthly completion analysis, KPI attainment status, and historical performance monitoring to support engineering operations reporting.
@@ -60,12 +61,13 @@ Developed a structured reporting workflow that transformed engineering work requ
 ## Repository Contents
 
 ```plaintext
-├── power_app_screenshots/
-│   ├── powerapps_form.png
+├── power_apps_screenshots/
+│   ├── powerapps_form_1.png
+│   ├── powerapps_form_2.png
 │   └── kpi_dashboard.png
 │
 ├── excel_report/
-│   └── engineering_kpi_report.xlsx
+│   └── engineering_kpi_report.pdf
 │
 └── README.md
 ```
