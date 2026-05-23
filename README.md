@@ -66,8 +66,7 @@ Developed a structured reporting workflow that transformed engineering work requ
 │   ├── powerapps_form_2.png
 │   └── kpi_dashboard.png
 │
-├── excel_report/
-│   └── engineering_kpi_report.pdf
+├── engineering_kpi_report.pdf
 │
 └── README.md
 ```
